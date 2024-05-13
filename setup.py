@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='ishandaiexperiments',
-  version='0.0.5',
+  version='0.0.6',
   description='dai experiments',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
